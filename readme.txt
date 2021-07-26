@@ -1,1 +1,2 @@
-Hello Git 
+Hello Git
+Git is a version control solution 
